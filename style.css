@@ -48,3 +48,6 @@ body{
 .Categories{
     padding: 0px 120px;
 }
+.sample-img img{
+    width: 80%;
+}
