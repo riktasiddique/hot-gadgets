@@ -46,8 +46,15 @@ body{
 }
 
 .Categories{
-    padding: 0px 120px;
+    padding: 0px 105px;
 }
-.sample-img img{
-    width: 80%;
+.pale-order img{
+    width: 100%;
+}
+.text{
+    margin-left: 39px;
+}
+.order-pic img{
+    width: 151px;
+    height: 100px;
 }
