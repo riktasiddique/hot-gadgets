@@ -1,0 +1,50 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Poppins — 41pt;
+}
+.navbar{
+    margin-top: 10px;
+}
+.navbar img{
+    width: 100px;
+    height: 70px;
+}
+.button{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    border: none;
+    padding: 5px 15px;
+}
+.carousel{
+    padding: 10px 35px;
+}
+.carousel img{
+    width: 100%;
+    padding-left: 40px;
+}
+.baground{
+    background-image: url("media/bg-1.png");
+    background-repeat: no-repeat;
+}
+.see-all{
+    color: #F47C00;
+}
+.card {
+    border: none;
+    box-shadow: 5px 5px 20px gray;
+    margin-bottom: 50px;
+    border-radius: 8px;
+}
+.cat-img img{
+    width: 100%;
+}
+.bag{
+    margin-top: 145px;
+    margin-left: 5px;
+}
+
+.Categories{
+    padding: 0px 120px;
+}
